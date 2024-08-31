@@ -1,7 +1,8 @@
 // String ("", '')
-const myName = "Petro"
+const myName = "@Petro"
 console.log(myName)
-
+console.log(myName.toUpperCase())
+console.log(myName.includes('@'))
 // Number 
 const myAge = 41
 console.log(myAge)
